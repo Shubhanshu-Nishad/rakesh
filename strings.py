@@ -1,3 +1,4 @@
+#reading python
 text="icecream"
 print(text)
 
@@ -7,5 +8,5 @@ print(text)
 text[0:3]
 print(text)
 
-text4:9]
+text[4:9]
 print(text)
